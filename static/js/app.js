@@ -6,7 +6,7 @@
 angular.module('uilab', ['ngRoute'])
   .config(['$routeProvider', function($routeProvider) {
      $routeProvider
-       .when('/home', {
+       .when('/', {
          templateUrl: 'views/home.html',
          controller: 'HomeCtrl'})
        .when('/members', {
@@ -15,5 +15,8 @@ angular.module('uilab', ['ngRoute'])
        .when('/research', {
          templateUrl: 'views/research.html',
          controller: 'ResearchCtrl'})
+       .when('/links', {
+         templateUrl: 'views/links.html',
+         controller: 'LinksCtrl'})
        .otherwise({redirectTo: '/'});
        }]);

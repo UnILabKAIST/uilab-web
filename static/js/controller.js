@@ -13,4 +13,9 @@ angular.module('uilab')
     function($scope){
 
     }
+  ])
+  .controller('LinksCtrl', ['$scope',
+    function($scope){
+
+    }
   ]);

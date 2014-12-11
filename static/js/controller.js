@@ -1,5 +1,16 @@
 angular.module('uilab')
-       .controller('IndexCtrl', ['$scope', 
-        function($scope){
+  .controller('HomeCtrl', ['$scope', 
+    function($scope){
 
-        }]);
+    }
+  ])
+  .controller('MembersCtrl', ['$scope',
+    function($scope){
+
+    }
+  ])
+  .controller('ResearchCtrl', ['$scope',
+    function($scope){
+
+    }
+  ]);

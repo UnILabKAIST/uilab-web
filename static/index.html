@@ -11,6 +11,7 @@
         <link href='./lib/bootstrap/dist/css/bootstrap.min.css' type='text/css' />
         <script src="./lib/jquery/dist/jquery.min.js"></script>
         <script src="./lib/angular/angular.min.js"></script>
+        <script src="./lib/angular-route/angular-route.min.js"></script>
 
         <!-- uilab custom -->
         <link href='./css/index.css' rel='stylesheet' type='text/css' />
@@ -22,11 +23,8 @@
                 $('#logo').fillUilabLogo();
             });
         </script>
-        <style>
-
-        </style>
     </head>
-    <body ng-app="uilab" ng-controller="IndexCtrl">
+    <body ng-app="uilab">
         <div class="header">
             <div class="container">
                 <h1>
@@ -34,9 +32,9 @@
                     <img src="./img/uilab_logo.png" />
                 </h1>
                 <ul class="menu">
-                    <a href="#"><li>Home</li></a>
-                    <a href="#"><li>Members</li></a>
-                    <a href="#"><li>Research</li></a>
+                    <a href="#/home"><li>Home</li></a>
+                    <a href="#/members"><li>Members</li></a>
+                    <a href="#/research"><li>Research</li></a>
                     <a href="#"><li>Links</li></a>
                     <a href="#"><li>Contact</li></a>
                     <a href="#"><li>Photos</li></a>
@@ -48,11 +46,7 @@
 
         </div>
         <div class="content">
-            <div class="container">
-                <div class="inner-container">
-                    Hello World.
-                </div>
-            </div>
+            <div class="container" ng-view></div>
         </div>
         <div class="footer">
             <div class="container">

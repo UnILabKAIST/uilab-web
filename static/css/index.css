@@ -1,0 +1,83 @@
+/* General styles */
+.no-display {
+	display: none;
+}
+
+/* General page-dependent styles */
+body {
+	font-family: 'Muli', sans-serif;
+}
+.container {
+	display: block;
+	margin: 0 auto 0 auto;
+	width: 100%;
+	max-width: 1024px;
+	min-width: 320px;
+}
+
+/* Others */
+.header .container {
+	
+}
+.header h1 {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+.header h1 img {
+	display: block;
+	margin: 20px 0px 20px 0px;
+	width: 50%;
+	max-width: 200px;
+	height: auto;
+}
+.header h1 #logo {
+	display: block;
+	position: relative;
+	width: 42px;
+	height: 42px;
+}
+.header ul.menu {
+	display: block;
+	margin: 5px 0 20px 0;
+	padding: 0 0 10px 0;
+	overflow: auto;
+	border-bottom: 1px solid #484848;
+	font-size: 14px;
+}
+.header ul.menu a {
+	color: #000000;
+	text-decoration: none;
+
+}
+.header ul.menu a:hover li {
+	color: #ffffff;
+	background-color: #000000;
+}
+.header ul.menu li {
+	display: block;
+	float: left;
+	margin: 0 10px 0 0;
+	padding: 3px 5px 3px 5px;
+}
+
+.gallery {
+
+}
+.content {
+	margin: 0 0 0 0;
+	padding: 20px 0 20px 0;
+}
+.content .inner-container {
+	margin: 0 20px 0 20px;
+}
+.footer {
+	padding: 20px 0 20px 0;
+}
+.footer .container {
+	border-top: 1px solid #484848;
+}
+.footer .container .contact {
+	margin: 20px 0px 20px 0px;
+	font-size: 12px;
+	color: #676767;
+}

@@ -1,4 +1,3 @@
 uilab-web
 =========
-Install libraries
-`bower install`
+Install libraries: `bower install`

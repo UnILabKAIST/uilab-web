@@ -294,8 +294,8 @@
         "booktitle": "Il-Chul Moon, Yohan Jo, Dongwoo Kim, and Alice H. Oh",
         "authors": "TONK (Text tO NetworK)",
         "links": {
-          "Manual": "TONK\/TONK_Manual.pdf",
-          "Software": "TONK\/TONK_windows-x64_1_0_1.exe"
+          "Manual": "\/research\/TONK\/TONK_Manual.pdf",
+          "Software": "\/research\/TONK\/TONK_windows-x64_1_0_1.exe"
         },
         "title": ""
       }

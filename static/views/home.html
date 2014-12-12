@@ -1,3 +1,26 @@
-<div>
-    Home
+
+<div class="sub-headered-content home" ng-controller="HomeCtrl">	
+	<h2>
+		<img src="./img/uilab_devices.jpg" />
+	</h2>
+	<div class="intro no-display">
+		We strive to identify important problems in social science that can be solved computationally and with large-scale data, and then to develop new machine learning algorithms to solve those problems.
+	</div>
+
+	<h3>Latest Publications</h3>
+	<ul class="publication-list">
+        <li ng-repeat="research in publications">
+            <div class="title">{{research.title}}</div>
+            <div class="authors">{{research.authors}}</div>
+            <div class="booktitle">{{research.booktitle}}</div>
+            <!--ul class="links no-display">
+                <li ng-repeat="(link_title, link) in research.links"><a ng-href="{{link}}">{{link_title}}</a></li>
+            </ul-->
+        </li>
+        <li>
+        	<ul class="links">
+        		<li><a href="#/research">See More</a></li>
+	    	</ul>
+        </li>
+    </ul>
 </div>

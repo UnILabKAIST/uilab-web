@@ -5,6 +5,7 @@
         <title>Users & Information Lab</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta name="viewport" content="width=device-width, user-scalable=yes" />
+        <link rel=icon href='./img/favicon.png' sizes="32x32" type="image/png">
 
         <!-- 3rd party libraries -->
         <link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css' />
@@ -20,7 +21,9 @@
         <script src="./js/controller.js"></script>
         <script>
             $(function() {
-                $('#logo').fillUilabLogo();
+                var logo = $('#logo').drawUILabLogo();
+                logo.startDefaultRandomAnimation();
+                // logo.startTestAnimation();
             });
         </script>
     </head>
@@ -29,7 +32,7 @@
             <div class="container">
                 <h1>
                     <div id="logo"></div>
-                    <img src="./img/uilab_logo.png" />
+                    <img src="./img/uilab_logo_text_amp_green.png" />
                 </h1>
                 <ul class="menu">
                     <a href="#/home"><li>Home</li></a>
@@ -52,7 +55,7 @@
             <div class="container">
                 <div class="contact">
                     Tel. +82 42 350 7749 <br />
-                    U&I Lab., Room 4417, E3-1, <br />
+                    U&I Lab., Room 4417, E3-1 Computer Science Building, <br />
                     KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 305-701, South Korea
                 </div>
             </div>

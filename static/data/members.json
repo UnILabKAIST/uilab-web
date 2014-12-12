@@ -1,0 +1,303 @@
+[
+  {
+    "members": [
+      {
+        "attributes": [
+          [
+            "education",
+            "Ph.D. in Electrical Engineering and Computer Science, 2008, MIT"
+          ],
+          [
+            "education",
+            "M.S. in Language and Information Technologies, June 2000, CMU"
+          ],
+          [
+            "education",
+            "B.S. in Mathematics, June 1996, MIT"
+          ]
+        ],
+        "image": ".\/img\/members\/aliceoh.jpg",
+        "name": "Alice Oh",
+        "links": [
+          
+        ],
+        "email": "alice.oh@kaist.edu"
+      }
+    ],
+    "title": "Principal Investigator"
+  },
+  {
+    "members": [
+      {
+        "attributes": [
+          [
+            "research",
+            "Bayesian Data Analysis, Hierarchical Bayesian Models, Topic Modeling, Human Cognition Modeling"
+          ]
+        ],
+        "image": ".\/img\/members\/joon.jpg",
+        "name": "Joon Hee Kim",
+        "links": [
+          ["CV", "?"]
+        ],
+        "email": "joon.kim@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            "Emotion & Sentiment Analysis, Bayesian Nonparametrics, Psychological Modeling"
+          ]
+        ],
+        "image": ".\/img\/members\/suinkim.png",
+        "name": "Suin Kim",
+        "links": [
+          
+        ],
+        "email": "suin.kim@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            "Online Learning, Interactive Machine Learning, Social Network, Bayesian Data Analysis"
+          ]
+        ],
+        "image": ".\/img\/members\/BJY_140.jpg",
+        "name": "JinYeong Bak",
+        "links": [
+          
+        ],
+        "email": ""
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            "Computational Social Science, Topic Modeling, Big Data Analysis"
+          ]
+        ],
+        "image": ".\/img\/members\/jaewon.png",
+        "name": "Jae Won Kim ",
+        "links": [
+          
+        ],
+        "email": "jaewonk@kaist.ac.kr"
+      }
+    ],
+    "title": "Ph.D. Candidates"
+  },
+  {
+    "members": [
+      {
+        "attributes": [
+          [
+            "research",
+            ""
+          ]
+        ],
+        "image": ".\/img\/members\/kimdwkimdw.jpg",
+        "name": "Dongwoo Kim",
+        "links": [
+          
+        ],
+        "email": "dongwoo.kim@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            ""
+          ]
+        ],
+        "image": ".\/img\/members\/jeongmin.jpg",
+        "name": "Jeongmin Byun",
+        "links": [
+          
+        ],
+        "email": "jmbyun@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            ""
+          ]
+        ],
+        "image": ".\/img\/members\/Sooyoung.JPG",
+        "name": "Sooyoung Kim",
+        "links": [
+          
+        ],
+        "email": "aquinata@kaist.ac.kr"
+      }
+    ],
+    "title": "Master Candidates"
+  },
+  {
+    "members": [
+      {
+        "attributes": [
+          [
+            "research",
+            "Social Network Analysis, Multi-Agent Modeling and Simulation, Game Theory, \nMachine Learning, and Artificial Intelligence"
+          ]
+        ],
+        "image": ".\/img\/members\/ilchul_moon.jpg",
+        "name": "Il-chul Moon",
+        "links": [
+          
+        ],
+        "email": "icmoon@smslab.kaist.ac.kr"
+      }
+    ],
+    "title": "Collaborator"
+  },
+  {
+    "members": [
+      {
+        "attributes": [
+          
+        ],
+        "image": ".\/img\/members\/ses75.png",
+        "name": "Eun-Soon Shin",
+        "links": [
+          
+        ],
+        "email": "ses75@kaist.ac.kr"
+      }
+    ],
+    "title": "Staff"
+  },
+  {
+    "members": [
+      {
+        "attributes": [
+          [
+            "research",
+            ""
+          ]
+        ],
+        "image": ".\/img\/members\/dongwoo2.png",
+        "name": "Dongwoo Kim  (Ph.D., 2015)",
+        "links": [
+          
+        ],
+        "email": "dw.kim@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            "Agency for Defense Development"
+          ]
+        ],
+        "image": ".\/img\/members\/yeool.jpg",
+        "name": "Yeooul Kim  (Master's, 2013)",
+        "links": [
+          
+        ],
+        "email": "yeooulkim@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            "Ph.D. student, NC Lab @ KAIST"
+          ]
+        ],
+        "image": ".\/img\/members\/profile.png",
+        "name": "Bumsoo Kang  (Master's, 2013)",
+        "links": [
+          
+        ],
+        "email": "steve.kang@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            "Ph.D. student, ANU & NICTA"
+          ]
+        ],
+        "image": ".\/img\/members\/trung3.png",
+        "name": "Trung Nguyen (Undergrad Researcher, 2011)",
+        "links": [
+          
+        ],
+        "email": "trung.ngvan@gmail.com"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            "Master's student, Language Technologies Institute @ CMU"
+          ]
+        ],
+        "image": ".\/img\/members\/yohanjo.jpg",
+        "name": "Yohan Jo (Master's, 2011)",
+        "links": [
+          
+        ],
+        "email": "yohan.jo@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            "Ph.D. student, HCI Lab @ KAIST"
+          ]
+        ],
+        "image": ".\/img\/members\/sunjun_kim.jpg",
+        "name": "Sunjun Kim (Master's, 2011)",
+        "links": [
+          
+        ],
+        "email": "inornate@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            "Financial Services Commission"
+          ]
+        ],
+        "image": ".\/img\/members\/youngmin_kim.jpg",
+        "name": "Youngmin Kim (Master's, 2010)",
+        "links": [
+          
+        ],
+        "email": "creatcross@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            "Bluehole Studio"
+          ]
+        ],
+        "image": ".\/img\/members\/hyunjong_lee.jpg",
+        "name": "Hyunjong Peter Lee (Master's, 2010)",
+        "links": [
+          
+        ],
+        "email": "lhjgine@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            "AI & Media Lab @ KAIST"
+          ]
+        ],
+        "image": ".\/img\/members\/francis.jpg",
+        "name": "Francis (Master's, 2010)",
+        "links": [
+          
+        ],
+        "email": "frojas@kaist.ac.kr"
+      }
+    ],
+    "title": "Alumni"
+  }
+]

@@ -60,13 +60,15 @@ a {
 }
 .header ul.menu a:hover li {
 	color: #ffffff;
-	background-color: #000000;
+	background-color: #343434;
+	/*background-color: #676767;*/
 }
 .header ul.menu li {
 	display: block;
 	float: left;
 	margin: 0 10px 0 0;
-	padding: 3px 5px 3px 5px;
+	/*padding: 3px 5px 3px 5px;*/
+	padding: 3px 0px 3px 0px;
 }
 
 .gallery {

@@ -12,7 +12,8 @@
 		<script src="./js/jquery.uilab-active-logo.js"></script>
 		<script>
 			$(function() {
-				$('#logo').fillUilabLogo();
+				var logo = $('#logo').drawUILabLogo();
+				logo.startDefaultRandomAnimation();
 			});
 		</script>
 		<style>
@@ -24,7 +25,7 @@
 			<div class="container">
 				<h1>
 					<div id="logo"></div>
-					<img src="./img/uilab_logo.png" />
+					<img src="./img/uilab_logo_text.png" />
 				</h1>
 				<ul class="menu">
 					<a href="#"><li>Home</li></a>

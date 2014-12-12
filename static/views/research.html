@@ -1,6 +1,17 @@
 
 <div class="sub-headered-content researches" ng-controller="ResearchCtrl">
     <ul class="group-list">
+        <li>
+            <h3>Topics</h3>  
+            <ul class="research-list">
+                <li>
+                    <div class="title">Computational Social Science</div>
+                </li>
+                <li>
+                    <div class="title">Topic Modeling</div>
+                </li>
+            </ul>
+        </li>
         <li ng-repeat="group in research_groups">
             <h3>{{group.title}}</h3>  
             <ul class="research-list">

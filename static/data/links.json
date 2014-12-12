@@ -1,0 +1,143 @@
+[
+  {
+    "links": [
+      [
+        "CS570 Artificial Intelligence, Spring 2009",
+        "http:\/\/uilab.kaist.ac.kr\/course\/CS570_2009_Spring.html"
+      ],
+      [
+        "CS470 Artificial Intelligence, Fall 2010",
+        "http:\/\/uilab.kaist.ac.kr\/course\/CS470_2010_Fall.html"
+      ],
+      [
+        "CS774 Topic Modeling Seminar, Spring 2011",
+        "http:\/\/sites.google.com\/site\/topicmodelingseminar\/"
+      ],
+      [
+        "KAIST CS Colloquium, Fall 2011",
+        "http:\/\/uilab.kaist.ac.kr\/colloquium\/"
+      ],
+      [
+        "CS470 Artificial Intelligence, Fall 2011",
+        "http:\/\/uilab.kaist.ac.kr\/course\/CS470_2011_Fall.html"
+      ]
+    ],
+    "title": "Courses"
+  },
+  {
+    "links": [
+      [
+        "ACM CHI 2014",
+        "http:\/\/chi2014.acm.org\/"
+      ],
+      [
+        "ACL 2014",
+        "http:\/\/www.cs.jhu.edu\/ACL2014\/"
+      ],
+      [
+        "ACM SIGIR 2014",
+        "http:\/\/sigir.org\/sigir2014\/"
+      ],
+      [
+        "AAAI 2014",
+        "http:\/\/www.aaai.org\/Conferences\/AAAI\/aaai14.php"
+      ],
+      [
+        "NIPS 2014",
+        "http:\/\/nips.cc\/FutureConferences\/"
+      ],
+      [
+        "KDD 2014",
+        "http:\/\/www.kdd.org\/kdd2014\/"
+      ],
+      [
+        "ICWSM 2014",
+        "http:\/\/www.icwsm.org\/2014\/index.php"
+      ],
+      [
+        "ICML 2014",
+        "http:\/\/icml.cc\/2014\/"
+      ],
+      [
+        "IJCAI 2015",
+        "http:\/\/ijcai.org"
+      ],
+      [
+        "ICCV 2015",
+        "http:\/\/www.iccv2013.org"
+      ],
+      [
+        "UAI 2014",
+        "http:\/\/auai.org\/uai2014\/"
+      ]
+    ],
+    "title": "Conferences"
+  },
+  {
+    "links": [
+      [
+        "Journal of Artificial Intelligence Research",
+        "http:\/\/www.jair.org"
+      ],
+      [
+        "Journal of Machine Learning Research",
+        "http:\/\/jmlr.csail.mit.edu\/"
+      ],
+      [
+        "Artificial Intelligence",
+        "http:\/\/www.elsevier.com\/wps\/find\/journaldescription.cws_home\/505601\/description#description"
+      ],
+      [
+        "Journal of the ACM",
+        "http:\/\/jacm.acm.org\/"
+      ],
+      [
+        "Machine Learning",
+        "http:\/\/www.springer.com\/computer\/ai\/journal\/10994"
+      ]
+    ],
+    "title": "Journals"
+  },
+  {
+    "links": [
+      [
+        "ACL Anthology",
+        "http:\/\/aclweb.org\/anthology-new\/"
+      ],
+      [
+        "Machine Learning Summer Schools",
+        "http:\/\/www.mlss.cc"
+      ],
+      [
+        "Computational Models and Social Network Tools (CASOS, CMU)",
+        "http:\/\/www.casos.cs.cmu.edu\/computational_tools\/tools.html"
+      ],
+      [
+        "OpinionFinder",
+        "http:\/\/www.cs.pitt.edu\/mpqa\/opinionfinderrelease\/"
+      ],
+      [
+        "LingPipe",
+        "http:\/\/alias-i.com\/lingpipe\/"
+      ],
+      [
+        "Gazetteer",
+        "http:\/\/world-gazetteer.com\/"
+      ]
+    ],
+    "title": "Resources"
+  },
+  {
+    "links": [
+      [
+        "U&I Lab Emblems",
+        "resources\/logos.zip"
+      ],
+      [
+        "Paper Template",
+        "resources\/paper-template.zip"
+      ]
+    ],
+    "title": "Lab Materials"
+  }
+]

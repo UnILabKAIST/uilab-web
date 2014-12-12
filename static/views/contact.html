@@ -1,0 +1,22 @@
+
+<div class="sub-headered-content contact" ng-controller="LinksCtrl">
+    <dl class="contact-list">
+    	<dt>Tel.</dt>
+    	<dd>+82 42 350 7749</dd>
+    	<dt>Address</dt>
+    	<dd>
+    		U&I Lab., Room 4417, E3-1 Computer Science Building, <br />
+			KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 305-701, South Korea
+		</dd>
+		<dt>Map</dt>
+		<dd>
+			<ui-gmap-google-map center='map.center' zoom='map.zoom'>
+				<ui-gmap-marker
+				        idKey='1'
+				        coords='map.center'
+				        >
+				</ui-gmap-marker>
+			</ui-gmap-google-map>
+		</dd>
+	</dl>
+</div>

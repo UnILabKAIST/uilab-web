@@ -18,8 +18,15 @@ angular.module('uilab')
       });
     }
   ])
-  .controller('LinksCtrl', ['$scope',
+  .controller('LinksCtrl', ['$scope', '$http',
+    function($scope, $http){
+      $http.get('data/links.json').success(function(data) {
+        $scope.link_groups = data;
+      });
+    }
+  ])
+  .controller('ContactCtrl', ['$scope',
     function($scope){
-
+      $scope.map = { center: { latitude: 36.368071, longitude: 127.365510 }, zoom: 15 };
     }
   ]);

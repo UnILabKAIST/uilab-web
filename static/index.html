@@ -2,17 +2,20 @@
 
 <html lang="en">
     <head>
-        <title>Users & Information Lab</title>
+        <title>Users &amp; Information Lab</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta name="viewport" content="width=device-width, user-scalable=yes" />
         <link rel=icon href='./img/favicon.png' sizes="32x32" type="image/png">
 
         <!-- 3rd party libraries -->
         <link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css' />
+        <script src='//maps.googleapis.com/maps/api/js?sensor=false'></script>
         <link href='./lib/bootstrap/dist/css/bootstrap.min.css' type='text/css' />
         <script src="./lib/jquery/dist/jquery.min.js"></script>
         <script src="./lib/angular/angular.min.js"></script>
         <script src="./lib/angular-route/angular-route.min.js"></script>
+        <script src='./lib/lodash/dist/lodash.min.js'></script>
+        <script src='./lib/angular-google-maps/dist/angular-google-maps.min.js'></script>
 
         <!-- uilab custom -->
         <link href='./css/index.css' rel='stylesheet' type='text/css' />
@@ -25,6 +28,7 @@
                 logo.startDefaultRandomAnimation();
                 // logo.startDefaultAnimation();
                 // logo.startTestAnimation();
+
             });
         </script>
     </head>
@@ -33,16 +37,16 @@
             <div class="container">
                 <h1>
                     <div id="logo"></div>
-                    <img src="./img/uilab_logo_text.png" />
+                    <img src="./img/uilab_logo_text_amp.png" />
                 </h1>
                 <ul class="menu">
                     <a href="#/home"><li>Home</li></a>
                     <a href="#/members"><li>Members</li></a>
                     <a href="#/research"><li>Research</li></a>
                     <a href="#/links"><li>Links</li></a>
-                    <a href="#"><li>Contact</li></a>
-                    <a href="#"><li>Photos</li></a>
-                    <a href="#"><li>Wiki</li></a>
+                    <a href="#/contact"><li>Contact</li></a>
+                    <!--a href="#"><li>Photos</li></a-->
+                    <a href="http://uilab.kaist.ac.kr/wiki/Main_Page" target="_blank"><li>Wiki</li></a>
                 </ul>
             </div>
         </div>
@@ -56,7 +60,7 @@
             <div class="container">
                 <div class="contact">
                     Tel. +82 42 350 7749 <br />
-                    U&I Lab., Room 4417, E3-1 Computer Science Building, <br />
+                    U&amp;I Lab., Room 4417, E3-1 Computer Science Building, <br />
                     KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 305-701, South Korea
                 </div>
             </div>

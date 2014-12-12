@@ -3,7 +3,7 @@
 *
 * Description
 */
-angular.module('uilab', ['ngRoute'])
+angular.module('uilab', ['ngRoute', 'uiGmapgoogle-maps'])
   .config(['$routeProvider', function($routeProvider) {
      $routeProvider
        .when('/', {
@@ -18,5 +18,8 @@ angular.module('uilab', ['ngRoute'])
        .when('/links', {
          templateUrl: 'views/links.html',
          controller: 'LinksCtrl'})
+       .when('/contact', {
+         templateUrl: 'views/contact.html',
+         controller: 'ContactCtrl'})
        .otherwise({redirectTo: '/'});
        }]);

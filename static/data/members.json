@@ -19,7 +19,7 @@
         "image": ".\/img\/members\/aliceoh.jpg",
         "name": "Alice Oh",
         "links": [
-          
+          ["Homepage", "http://uilab.kaist.ac.kr/members/aliceoh/"]
         ],
         "email": "alice.oh@kaist.edu"
       }
@@ -38,7 +38,7 @@
         "image": ".\/img\/members\/joon.jpg",
         "name": "Joon Hee Kim",
         "links": [
-          ["CV", "?"]
+          ["CV", "https://docs.google.com/document/pub?id=1_bA7SD0ivUpB-HhXlgL7ND_l3DO-uTZN2KICMON2ESU"]
         ],
         "email": "joon.kim@kaist.ac.kr"
       },
@@ -52,7 +52,8 @@
         "image": ".\/img\/members\/suinkim.png",
         "name": "Suin Kim",
         "links": [
-          
+          ["Homepage", "http://uilab.kaist.ac.kr/members/suinkim/"],
+          ["CV", "http://uilab.kaist.ac.kr/members/suinkim/suin_kim_cv.pdf"]
         ],
         "email": "suin.kim@kaist.ac.kr"
       },
@@ -66,9 +67,10 @@
         "image": ".\/img\/members\/BJY_140.jpg",
         "name": "JinYeong Bak",
         "links": [
-          
+          ["Homepage", "http://uilab.kaist.ac.kr/members/jinyeongbak/"],
+          ["CV", "http://uilab.kaist.ac.kr/members/jinyeongbak/JinYeong_Bak_CV.pdf"]
         ],
-        "email": ""
+        "email": "jy.bak@kaist.ac.kr"
       },
       {
         "attributes": [
@@ -80,7 +82,7 @@
         "image": ".\/img\/members\/jaewon.png",
         "name": "Jae Won Kim ",
         "links": [
-          
+          ["Homepage", "http://uilab.kaist.ac.kr/members/jaewonkim/"]
         ],
         "email": "jaewonk@kaist.ac.kr"
       }
@@ -99,7 +101,7 @@
         "image": ".\/img\/members\/kimdwkimdw.jpg",
         "name": "Dongwoo Kim",
         "links": [
-          
+
         ],
         "email": "dongwoo.kim@kaist.ac.kr"
       },
@@ -181,7 +183,8 @@
         "image": ".\/img\/members\/dongwoo2.png",
         "name": "Dongwoo Kim  (Ph.D., 2015)",
         "links": [
-          
+          ["Homepage", "http://uilab.kaist.ac.kr/members/dongwoo/"],
+          ["CV", "http://uilab.kaist.ac.kr/members/dongwoo/cv.pdf"]
         ],
         "email": "dw.kim@kaist.ac.kr"
       },
@@ -223,7 +226,7 @@
         "image": ".\/img\/members\/trung3.png",
         "name": "Trung Nguyen (Undergrad Researcher, 2011)",
         "links": [
-          
+          ["Homepage", "https://sites.google.com/site/trunganu/"]
         ],
         "email": "trung.ngvan@gmail.com"
       },
@@ -237,7 +240,8 @@
         "image": ".\/img\/members\/yohanjo.jpg",
         "name": "Yohan Jo (Master's, 2011)",
         "links": [
-          
+          ["Homepage", "http://uilab.kaist.ac.kr/members/yohanjo"],
+          ["CV", "http://uilab.kaist.ac.kr/members/yohanjo"]
         ],
         "email": "yohan.jo@kaist.ac.kr"
       },
@@ -251,7 +255,7 @@
         "image": ".\/img\/members\/sunjun_kim.jpg",
         "name": "Sunjun Kim (Master's, 2011)",
         "links": [
-          
+          ["CV", "http://docs.google.com/View?id=dgkz66fb_36drzgsqgm"]
         ],
         "email": "inornate@kaist.ac.kr"
       },

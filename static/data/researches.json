@@ -1,6 +1,14 @@
 [
   {
     "researches": [
+       {
+        "booktitle": "To appear in Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI 2015)",
+        "authors": "Jae Won Kim, Dongwoo Kim, Brian Keegan, Joon Hee Kim, Suin Kim and Alice Oh",
+        "links": {
+          
+        },
+        "title": "Social Media Dynamics of Global Co-presence During the 2014 FIFA World Cup"
+      },
       {
         "booktitle": "To appear in Proceedings of the18th \nACM Conference on Computer-Supported Cooperative Work and Social \nComputing (CSCW 2015)",
         "authors": "Bumsoo Kang, Sujin Lee, Seungwoo Kang, Junehwa Song, Inseok Hwang and Alice Oh",

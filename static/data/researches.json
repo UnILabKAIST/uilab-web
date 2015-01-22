@@ -211,19 +211,20 @@
         "title": "Users' Needs for Social Tagging and Sharing on Mobile Contacts"
       },
       {
-        "booktitle": "Workshop on Microblogging at the ACM Conference on Human Factors in Computer Systems (CHI 2010). 2010. \n [PDF]   [Bibtex]   [Long version]",
+        "booktitle": "Workshop on Microblogging at the ACM Conference on Human Factors in Computer Systems (CHI 2010). 2010.",
         "authors": "Dongwoo Kim, Yohan Jo, Il-Chul Moon, and Alice Oh",
         "links": {
-          
-        },
+          "PDF": "\/research\/CHI10-Twitter\/Analysis of Twitter Lists as--Kim.pdf",
+          "Long version": "\/research\/CHI10-Twitter\/dwkim_long_version.pdf"
+        },        
         "title": "Analysis of Twitter Lists as a Potential Source for Discovering Latent Characteristics of Users"
       },
       {
-        "booktitle": "Workshop on Know Thyself at the ACM Conference on Human Factors in Computer Systems (CHI 2010). 2010. \n [PDF]",
-        "authors": "Younkyung Lim, Alice Oh, Tekjin Nam, and Kee-Eung Kim",
+        "booktitle": "Workshop on Know Thyself at the ACM Conference on Human Factors in Computer Systems (CHI 2010). 2010.",
         "links": {
-          
+          "PDF": "\/research\/CHI10-Lifecare\/Personal Informatics for Discovering Human-centered--Lim.pdf"
         },
+        "authors": "Younkyung Lim, Alice Oh, Tekjin Nam, and Kee-Eung Kim",
         "title": "Personal Informatics for Discovering Human-Centered Lifecare System Opportunities"
       },
       {

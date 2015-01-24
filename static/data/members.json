@@ -98,20 +98,6 @@
             ""
           ]
         ],
-        "image": ".\/img\/members\/kimdwkimdw.jpg",
-        "name": "Dongwoo Kim",
-        "links": [
-
-        ],
-        "email": "dongwoo.kim@kaist.ac.kr"
-      },
-      {
-        "attributes": [
-          [
-            "research",
-            ""
-          ]
-        ],
         "image": ".\/img\/members\/jeongmin.jpg",
         "name": "Jeongmin Byun",
         "links": [
@@ -173,6 +159,20 @@
   },
   {
     "members": [
+      {
+        "attributes": [
+          [
+            "research",
+            ""
+          ]
+        ],
+        "image": ".\/img\/members\/kimdwkimdw.jpg",
+        "name": "Dongwoo Kim (Master's, 2015)",
+        "links": [
+
+        ],
+        "email": "dongwoo.kim@kaist.ac.kr"
+      },
       {
         "attributes": [
           [

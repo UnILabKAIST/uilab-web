@@ -95,7 +95,7 @@
         "attributes": [
           [
             "research",
-            ""
+            "Computational Social Science, Topic Modeling"
           ]
         ],
         "image": ".\/img\/members\/jeongmin.jpg",
@@ -118,6 +118,34 @@
           
         ],
         "email": "aquinata@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            ""
+          ]
+        ],
+        "image": ".\/img\/members\/jooyeon.png",
+        "name": "Jooyeon Kim",
+        "links": [
+          
+        ],
+        "email": "jooyeon.kim@kaist.ac.kr"
+      },
+      {
+        "attributes": [
+          [
+            "research",
+            ""
+          ]
+        ],
+        "image": ".\/img\/members\/jungkook.jpg",
+        "name": "Jungkook Park",
+        "links": [
+          
+        ],
+        "email": "pjknkda@kaist.ac.kr"
       }
     ],
     "title": "Master Candidates"
@@ -183,8 +211,8 @@
         "image": ".\/img\/members\/dongwoo2.png",
         "name": "Dongwoo Kim  (Ph.D., 2015)",
         "links": [
-          ["Homepage", "http://uilab.kaist.ac.kr/members/dongwoo/"],
-          ["CV", "http://uilab.kaist.ac.kr/members/dongwoo/cv.pdf"]
+          ["Homepage", "http://arongdari.github.io"],
+          ["CV", "http://arongdari.github.io/cv.pdf"]
         ],
         "email": "dw.kim@kaist.ac.kr"
       },
